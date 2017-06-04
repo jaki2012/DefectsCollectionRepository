@@ -80,3 +80,8 @@
 - Name:```google/Guava```
 - CodeVersion:```release v21.0```
 - [The Download link is here, please click this url site:](https://github.com/google/guava/tree/v21.0)
+
+ ![image](https://github.com/DefectsCollectionRepository/raw/master/Logo.png)
+```java
+("Powered by LabSSE-409")
+```
