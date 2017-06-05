@@ -3,6 +3,7 @@
 ### If any questions, welcome contact us by mail: lijiechu@qq.com
 ---
 ## Infomation of all the project is listed below:
+#### if not specially mentioned, branches of them are all master
 ### Project 1
 ---
 - Name:```alibaba/RocketMQ```
@@ -35,9 +36,9 @@
 
 ### Project 6
 ---
-- Name:```crowdsourcing-mart-api```
-- CodeVersion:```branch:master commit:3a8a393a59076031fb6738589d987b7729eed681```
-- [The download link is here, please click this url site.](https://github.com/Lab409-SSE-Tongji/crowdsourcing-mart-api/tree/3a8a393a59076031fb6738589d987b7729eed681)
+- Name:``````
+- CodeVersion:``````
+- [The download link is here, please click this url site.]()
 
 ### Project 7
 ---
@@ -53,8 +54,8 @@
 
 ### Project 9
 ---
-- Name:```安卓async-http-client```
-- CodeVersion:```v2.1.0 alpha12```
+- Name:```loopj/android-async-http```
+- CodeVersion:```v1.4.9 commit:f53deef7ad5b02b42b59dab92f66dec4fde8e1f6```
 - [The download link is here, please click this url site.](https://github.com/AsyncHttpClient/async-http-client)
 
 ### Project 10
@@ -80,6 +81,18 @@
 - Name:```google/Guava```
 - CodeVersion:```release v21.0```
 - [The download link is here, please click this url site.](https://github.com/google/guava/tree/v21.0)
+
+### Project 12
+---
+- Name:``````
+- CodeVersion:``````
+- [The download link is here, please click this url site.]()
+
+### Project 15
+---
+- Name:```crowdsourcing-mart-api```
+- CodeVersion:```branch:master commit:3a8a393a59076031fb6738589d987b7729eed681```
+- [The download link is here, please click this url site.](https://github.com/Lab409-SSE-Tongji/crowdsourcing-mart-api/tree/3a8a393a59076031fb6738589d987b7729eed681)
 
  ![image](https://github.com/jaki2012/DefectsCollectionRepository/raw/master/Logo.png)
 ```java
