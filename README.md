@@ -35,9 +35,9 @@
 
 ### Project 6
 ---
-- Name:``````
-- CodeVersion:``````
-- [The download link is here, please click this url site.](http://git.oschina.net/huangyong/smart-framework)
+- Name:```crowdsourcing-mart-api```
+- CodeVersion:```branch:master commit:3a8a393a59076031fb6738589d987b7729eed681```
+- [The download link is here, please click this url site.](https://github.com/Lab409-SSE-Tongji/crowdsourcing-mart-api/tree/3a8a393a59076031fb6738589d987b7729eed681)
 
 ### Project 7
 ---
