@@ -29,9 +29,9 @@
 
 ### Project 5
 ---
-- Name:```smart-framework```
-- CodeVersion:```v2.3.3-SNAPSHOT```
-- [The download link is here, please click this url site.](http://git.oschina.net/huangyong/smart-framework)
+- Name:```spring-wind-core```
+- CodeVersion:```v1.1.5 commit:c80b8f31c```
+- [The download link is here, please click this url site.](https://git.oschina.net/juapk/spring-wind)
 
 ### Project 6
 ---
@@ -84,5 +84,5 @@
  ![image](https://github.com/jaki2012/DefectsCollectionRepository/raw/master/Logo.png)
 ```java
 ("Powered by LabSSE-409")
-For more information of our team, visit this link: https://lab-sse.cn/
 ```
+For more information of our team, visit this link: https://lab-sse.cn/
