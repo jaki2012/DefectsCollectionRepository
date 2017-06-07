@@ -36,9 +36,9 @@
 
 ### Project 6
 ---
-- Name:``````
-- CodeVersion:``````
-- [The download link is here, please click this url site.]()
+- Name:```b3log/solo```
+- CodeVersion:```v2.1.0 branch:master commit:68c95f1dc751202bab039e80cbbc47fdce5a64bd```
+- [The download link is here, please click this url site.](https://github.com/b3log/solo/tree/68c95f1dc751202bab039e80cbbc47fdce5a64bd)
 
 ### Project 7
 ---
@@ -82,11 +82,11 @@
 - CodeVersion:```release v21.0```
 - [The download link is here, please click this url site.](https://github.com/google/guava/tree/v21.0)
 
-### Project 12
+### Project 14
 ---
-- Name:``````
-- CodeVersion:``````
-- [The download link is here, please click this url site.]()
+- Name:```null```
+- CodeVersion:```null```
+- This project still not pass the unit testing... keep waitting...plz
 
 ### Project 15
 ---
